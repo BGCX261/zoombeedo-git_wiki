@@ -1,0 +1,14 @@
+#labels Featured,Phase-Requirements
+#Descripcion general del proyecto
+
+= Introduction =
+
+Aplicación de interacción social donde se comparten contenidos desde un simple post de pocos caracteres hasta información, Links y contenido multimedia.
+
+= Arquitectura =
+
+La aplicación esta sobre Ruby on Rails, conectandose a las cuentas de Google ya sea Gmail o de Google Apps para poder autenticar al usuario.
+
+= Alcances iniciales =
+
+Revisar Alcances y Log de Cambios
