@@ -9,6 +9,6 @@ Sicial interaction application where the user can share some content from a simp
 
 The app will be over Ruby on Rails making login with Gmail Accounts or Google Apps Accounts.
 
-= Alcances iniciales =
+= Features =
 
 Check Changes-Log [http://code.google.com/p/zoombeedo/wiki/LogChanges]
