@@ -11,4 +11,4 @@ La aplicación esta sobre Ruby on Rails, conectandose a las cuentas de Google ya
 
 = Alcances iniciales =
 
-Revisar Alcances y Log de Cambios
+Revisar Alcances y Log de Cambios[http://code.google.com/p/zoombeedo/wiki/LogChanges]
