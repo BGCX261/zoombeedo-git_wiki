@@ -1,14 +1,14 @@
 #labels Featured,Phase-Requirements
-#Descripcion general del proyecto
+#General briefing
 
 = Introduction =
 
-Aplicación de interacción social donde se comparten contenidos desde un simple post de pocos caracteres hasta información, Links y contenido multimedia.
+Sicial interaction application where the user can share some content from a simple post to some extensive post, images and multimedia.
 
-= Arquitectura =
+= Architecture =
 
-La aplicación esta sobre Ruby on Rails, conectandose a las cuentas de Google ya sea Gmail o de Google Apps para poder autenticar al usuario.
+The app will be over Ruby on Rails making login with Gmail Accounts or Google Apps Accounts.
 
 = Alcances iniciales =
 
-Revisar Alcances y Log de Cambios[http://code.google.com/p/zoombeedo/wiki/LogChanges]
+Check Changes-Log [http://code.google.com/p/zoombeedo/wiki/LogChanges]
