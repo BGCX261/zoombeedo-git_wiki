@@ -1,0 +1,7 @@
+#labels Phase-Requirements
+= LogChanges = 
+
+Actividades para la version preliminar *1.0*
+  * Poder entrar *unicamente* si eres *invitado*
+  * Autenticar con la cuenta de *Gmail*, o de *Google Apps*
+  * Poder realizar posts sencillos *de 0 a 1500 caracteres*
