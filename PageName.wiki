@@ -1,0 +1,6 @@
+#labels Reference
+= References =
+
+= Google Accounts API =
+
+ * [http://code.google.com/intl/es-419/apis/accounts/]
