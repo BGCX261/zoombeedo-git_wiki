@@ -2,3 +2,6 @@
 = Diseño de Interfaz =
 
 == Interfaz de usuario ==
+
+A preview of the interface: [http://meayudarias.info/zumbido/test/]
+_In wait for the new logo (zumbeedo)_
