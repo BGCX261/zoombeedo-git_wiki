@@ -7,7 +7,7 @@ Sicial interaction application where the user can share some content from a simp
 
 = Architecture =
 
-The app will be over Ruby on Rails making login with Gmail Accounts or Google Apps Accounts.
+The app will be over App engine making login with Gmail Accounts or Google Apps Accounts.
 
 = Features =
 
