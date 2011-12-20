@@ -4,3 +4,5 @@
 = User Flow =
 
 This Diagram describes the basic user flow
+
+https://lh3.googleusercontent.com/-dOmvX4Z6Hb8/TvD17hbs1dI/AAAAAAAADXI/9KDWGm_89OM/s144/Flow.png
