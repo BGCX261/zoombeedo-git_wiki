@@ -6,8 +6,8 @@ The first viable beta product must contain the next activities:
 
 = Details =
 
-  1 *Google Accounts Authentication*
-  2 *Name* and *Nickname Registration*
-  3 Just *preregistered people can login*
-  4 *Post content*
-  5 *Comment* a *post*
+  * *Google Accounts Authentication*
+  * *Name* and *Nickname Registration*
+  * Just *preregistered people can login*
+  * *Post content*
+  * *Comment* a *post*
