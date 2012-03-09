@@ -1,0 +1,17 @@
+#summary common concepts of the use cases
+
+= Introduction =
+
+This arethe most commo concepts used in the development process you need to know before anything else.
+
+
+= Details =
+
+*zoombedoor* or *zoomber* person who posts 
+*zoomb* post
+*zooment* comment
+*zoomage* image posted or post with an image
+*zommink* link or port with a link
+*zoomvideo* video or post with a video
+
+This page is under construction
